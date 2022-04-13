@@ -1,4 +1,4 @@
-FROM blackamda/queenamdi:public
+FROM ytdjtjctyghngtdx/queenamdi:public
 
 RUN git clone https://github.com/ytdjtjctyghngtdx/whatsappbottest /root/QueenAmdi
 WORKDIR /root/whatsappbottest/
